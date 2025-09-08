@@ -14,7 +14,7 @@ b. Runs above files using all date site combinations to make a combined dataset.
 
 ### 3. Download NEON plot level lidar point cloud data
 
-Downloads lidar data from NEON for all selected site-date combination from step 1. To avoid the boundary effects, we clipped lidar point clouds 200m x 200m (plot size is 20m x 20m). This results lidar point cloud per plot per each data-site combination in .laz format. Files have not uploaded here due to size restriction (~2.63 GB in total). 
+Downloads lidar data from [NEON](https://data.neonscience.org/data-products/DP1.30003.001) from NEON for all site–date combinations identified in Step 1. To minimize boundary effects, each point cloud was clipped to a 200 m × 200 m area (surrounding a 20 m × 20 m plot). This produced one LiDAR point cloud (in .laz format) for each plot within each site–date combination. Due to size constraints (~2.63 GB in total), the files are not included in this repository.
 
 ### 4. Structural diversity metric extraction 
 
