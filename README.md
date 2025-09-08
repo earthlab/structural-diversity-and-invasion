@@ -17,6 +17,6 @@ b. Runs above files using all date site combinations to make a combined dataset.
 Downloads lidar data from [NEON](https://data.neonscience.org/data-products/DP1.30003.001) from NEON for all site–date combinations identified in Step 1. To minimize boundary effects, each point cloud was clipped to a 200 m × 200 m area (surrounding a 20 m × 20 m plot). This produced one LiDAR point cloud (in .laz format) for each plot within each site–date combination. Due to size constraints (~2.63 GB in total), the files are not included in this repository.
 
 ### 4. Structural diversity metric extraction 
-Extract a series of structural divesity metrics using pointcloud and point cloud derived canopy height meodels for each plot based on [Larue et al., 2019](https://iopscience.iop.org/article/10.1088/1748-9326/ab49bb)
+Extract a series of structural divesity metrics using pointcloud and point cloud derived canopy height meodels for each plot based on [LaRue et al., 2019](https://iopscience.iop.org/article/10.1088/1748-9326/ab49bb)
 
 ### 5. Analysis on forest structural diversity on invasion
