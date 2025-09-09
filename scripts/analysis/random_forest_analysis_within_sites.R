@@ -1,4 +1,4 @@
-# trying to do a good random forest analysis - within sites
+# Random forest analysis to assess within site prediction of invasion using structural diversity and site specific parameters
 library(tidyverse)
 library(ranger)
 # library(randomForest)
