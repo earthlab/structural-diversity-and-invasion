@@ -1,4 +1,5 @@
-# trying to do a good random forest analysis
+# Random forest analsysi: In this scripts we investigate the ability of forst structural diversity to detect the invasion and provide a detailed analsysis on best metrics to detect the invasion at NEON sites.
+
 library(tidyverse)
 library(ranger)
 # library(randomForest)
