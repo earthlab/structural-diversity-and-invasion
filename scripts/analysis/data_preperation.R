@@ -1,4 +1,4 @@
-# adam's analysis - data prep
+# Data preperation: This scripts brings all plot level cover, lidar derived structural diversity metrics, and other site specific characteristics in to a single dataframe.
 library(tidyverse)
 library(ranger)
 library(randomForest)
