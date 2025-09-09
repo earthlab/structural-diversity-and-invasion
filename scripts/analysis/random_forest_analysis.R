@@ -1,4 +1,4 @@
-# Random forest analsysi: In this scripts we investigate the ability of forst structural diversity to detect the invasion and provide a detailed analsysis on best metrics to detect the invasion at NEON sites.
+# Random forest analsysi: In this scripts we investigate the ability of forst structural diversity to detect the invasion and provide a detailed analsysis on best metrics to detect the invasion across NEON sites.
 
 library(tidyverse)
 library(ranger)
