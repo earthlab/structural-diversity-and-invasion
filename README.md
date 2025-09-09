@@ -2,7 +2,7 @@
 # Structural Diversity and Invasion
 This repository downloads, cleans, and analyzes National Ecological Observatory Network (NEON) lidar and plot level plant cover data to look at the relationship between forest structural diversity and resistance to plant invasion across 26 NEON forested sites.
 
-## Summary workflow
+## Summary Workflow
 
 ### 1. Download NEON plot level cover data for all date site combinations  
 a. Downloads data for all date site combinations NEON_sites_dates_for_cover.csv and All_NEON_TOS_Plot_Centroids_V8.csv from DDDD. The files are in compressed .rar format. We selected only forest NEON sites for further processing in this study. 
