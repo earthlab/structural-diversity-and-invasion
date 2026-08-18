@@ -1,0 +1,514 @@
+Growth Form,Family,Scientific Name,USDA Taxon ID
+forb/herb,Amaranthaceae,Alternanthera caracasana Kunth,ALCA5
+forb/herb,Amaranthaceae,Alternanthera philoxeroides (Mart.) Griseb.,ALPH
+forb/herb,Amaranthaceae,Amaranthus albus L.,AMAL
+forb/herb,Apiaceae,Ammi majus L.,AMMA
+forb/herb,Apiaceae,Carum carvi L.,CACA19
+forb/herb,Apiaceae,Centella asiatica (L.) Urb.,CEAS
+forb/herb,Apiaceae,Cyclospermum leptophyllum (Pers.) Sprague ex Britton & P. Wilson,CYLE7
+forb/herb,Apiaceae,Daucus carota L.,DACA6
+forb/herb,Apiaceae,Myrrhis odorata (L.) Scop.,MYOD
+forb/herb,Apiaceae,Pastinaca sativa L.,PASA2
+forb/herb,Apiaceae,Torilis arvensis (Huds.) Link,TOAR
+forb/herb,Apiaceae,Torilis arvensis (Huds.) Link ssp. arvensis,TOARA
+forb/herb,Apiaceae,Torilis sp.,TORIL
+forb/herb,Apocynaceae,Vinca minor L.,VIMI2
+forb/herb,Apocynaceae,Vinca sp.,VINCA
+forb/herb,Araceae,Colocasia esculenta (L.) Schott,COES
+forb/herb,Asteraceae,Acanthospermum hispidum DC.,ACHI
+forb/herb,Asteraceae,Ageratum houstonianum Mill.,AGHO3
+forb/herb,Asteraceae,Anthemis arvensis L.,ANAR6
+forb/herb,Asteraceae,Arctium minus Bernh.,ARMI2
+forb/herb,Asteraceae,Arctium sp.,ARCTI
+forb/herb,Asteraceae,Artemisia annua L.,ARAN3
+forb/herb,Asteraceae,Artemisia vulgaris L.,ARVU
+forb/herb,Asteraceae,Aster sp.,ASTER
+forb/herb,Asteraceae,Aster spp.,ASTERSPP
+forb/herb,Asteraceae,Carduus acanthoides L.,CAAC
+forb/herb,Asteraceae,Carduus nutans L.,CANU4
+forb/herb,Asteraceae,Carduus pycnocephalus L.,CAPY2
+forb/herb,Asteraceae,Carduus sp.,CARDU
+forb/herb,Asteraceae,Carduus spp.,CARDUSPP
+forb/herb,Asteraceae,Centaurea calcitrapa L.,CECA2
+forb/herb,Asteraceae,Centaurea melitensis L.,CEME2
+forb/herb,Asteraceae,Centaurea stoebe L. ssp. micranthos (Gugler) Hayek,CESTM
+forb/herb,Asteraceae,Chondrilla juncea L.,CHJU
+forb/herb,Asteraceae,Cichorium intybus L.,CIIN
+forb/herb,Asteraceae,Cichorium sp.,CICHO
+forb/herb,Asteraceae,Cirsium arvense (L.) Scop.,CIAR4
+forb/herb,Asteraceae,Cirsium palustre (L.) Scop.,CIPA6
+forb/herb,Asteraceae,Cirsium vulgare (Savi) Ten.,CIVU
+forb/herb,Asteraceae,Cnicus sp.,CNICU
+forb/herb,Asteraceae,Conyza bonariensis (L.) Cronquist,COBO
+forb/herb,Asteraceae,Conyza floribunda Kunth,COFL
+forb/herb,Asteraceae,Crepis capillaris (L.) Wallr.,CRCA3
+forb/herb,Asteraceae,Dahlia pinnata Cav.,DAPI3
+forb/herb,Asteraceae,Hieracium aurantiacum L.,HIAU
+forb/herb,Asteraceae,Hieracium caespitosum Dumort.,HICA10
+forb/herb,Asteraceae,Hieracium lachenalii C.C. Gmel.,HILA8
+forb/herb,Asteraceae,Hieracium pilosella L.,HIPI
+forb/herb,Asteraceae,Hieracium piloselloides Vill.,HIPI2
+forb/herb,Asteraceae,Hypochaeris brasiliensis (Less.) Benth. & Hook. ex Griseb.,HYBR5
+forb/herb,Asteraceae,Hypochaeris glabra L.,HYGL2
+forb/herb,Asteraceae,Hypochaeris radicata L.,HYRA3
+forb/herb,Asteraceae,Hypochaeris sp.,HYPOC
+forb/herb,Asteraceae,Lactuca serriola L.,LASE
+forb/herb,Asteraceae,Lapsana communis L.,LACO3
+forb/herb,Asteraceae,Leontodon hispidus L.,LEHI
+forb/herb,Asteraceae,Leucanthemum sp.,LEUCA4
+forb/herb,Asteraceae,Leucanthemum vulgare Lam.,LEVU
+forb/herb,Asteraceae,Logfia arvensis (L.) Holub,LOAR5
+forb/herb,Asteraceae,Logfia gallica (L.) Coss. & Germ.,LOGA2
+forb/herb,Asteraceae,Matricaria discoidea DC.,MADI6
+forb/herb,Asteraceae,Mycelis muralis (L.) Dumort.,MYMU
+forb/herb,Asteraceae,Pseudognaphalium luteoalbum (L.) Hilliard & B.L. Burtt,PSLU6
+forb/herb,Asteraceae,Senecio jacobaea L.,SEJA
+forb/herb,Asteraceae,Senecio sylvaticus L.,SESY
+forb/herb,Asteraceae,Senecio vulgaris L.,SEVU
+forb/herb,Asteraceae,Silybum marianum (L.) Gaertn.,SIMA3
+forb/herb,Asteraceae,Sonchus arvensis L.,SOAR2
+forb/herb,Asteraceae,Sonchus asper (L.) Hill,SOAS
+forb/herb,Asteraceae,Sonchus oleraceus L.,SOOL
+forb/herb,Asteraceae,Sonchus sp.,SONCH
+forb/herb,Asteraceae,Tanacetum vulgare L.,TAVU
+forb/herb,Asteraceae,Taraxacum laevigatum (Willd.) DC.,TALA2
+forb/herb,Asteraceae,Taraxacum officinale F.H. Wigg. ssp. officinale,TAOFO
+forb/herb,Asteraceae,Tragopogon dubius Scop.,TRDU
+forb/herb,Asteraceae,Tragopogon dubius/pratensis,TRDU/TRPR
+forb/herb,Asteraceae,Tragopogon lamottei Rouy,TRLA30
+forb/herb,Asteraceae,Tragopogon sp.,TRAGO
+forb/herb,Asteraceae,Tridax sp.,TRIDA
+forb/herb,Asteraceae,Youngia japonica (L.) DC.,YOJA
+forb/herb,Balsaminaceae,Impatiens balsamina L.,IMBA
+forb/herb,Boraginaceae,Asperugo procumbens L.,ASPR
+forb/herb,Boraginaceae,Buglossoides arvensis (L.) I.M. Johnst.,BUAR3
+forb/herb,Boraginaceae,Cynoglossum officinale L.,CYOF
+forb/herb,Boraginaceae,Echium vulgare L.,ECVU
+forb/herb,Boraginaceae,Heliotropium indicum L.,HEIN
+forb/herb,Boraginaceae,Lappula squarrosa (Retz.) Dumort.,LASQ
+forb/herb,Boraginaceae,Myosotis scorpioides L.,MYSC
+forb/herb,Boraginaceae,Myosotis stricta Link ex Roem. & Schult.,MYST2
+forb/herb,Boraginaceae,Myosotis sylvatica Ehrh.,MYSY
+forb/herb,Boraginaceae,Symphytum sp.,SYMPH2
+forb/herb,Brassicaceae,Alliaria petiolata (M. Bieb.) Cavara & Grande,ALPE4
+forb/herb,Brassicaceae,Alliaria sp.,ALLIA
+forb/herb,Brassicaceae,Alyssum alyssoides (L.) L.,ALAL3
+forb/herb,Brassicaceae,Alyssum desertorum Stapf,ALDE
+forb/herb,Brassicaceae,Alyssum sp.,ALYSS
+forb/herb,Brassicaceae,Alyssum spp.,ALYSSSPP
+forb/herb,Brassicaceae,"Armoracia rusticana G. Gaertn., B. Mey. & Scherb.",ARRU4
+forb/herb,Brassicaceae,Barbarea sp.,BARBA
+forb/herb,Brassicaceae,Barbarea vulgaris W.T. Aiton,BAVU
+forb/herb,Brassicaceae,Berteroa incana (L.) DC.,BEIN2
+forb/herb,Brassicaceae,Brassica juncea (L.) Czern.,BRJU
+forb/herb,Brassicaceae,Brassica sp.,BRASS2
+forb/herb,Brassicaceae,Brassica spp.,BRASS2SPP
+forb/herb,Brassicaceae,Camelina microcarpa Andrz. ex DC.,CAMI2
+forb/herb,Brassicaceae,Capsella bursa-pastoris (L.) Medik.,CABU2
+forb/herb,Brassicaceae,Cardamine hirsuta L.,CAHI3
+forb/herb,Brassicaceae,Cardaria draba (L.) Desv.,CADR
+forb/herb,Brassicaceae,Descurainia sophia (L.) Webb ex Prantl,DESO2
+forb/herb,Brassicaceae,Draba verna L.,DRVE2
+forb/herb,Brassicaceae,Eruca vesicaria (L.) Cav. ssp. sativa (Mill.) Thell.,ERVES
+forb/herb,Brassicaceae,Erysimum cheiranthoides L.,ERCH9
+forb/herb,Brassicaceae,Erysimum hieraciifolium L.,ERHI8
+forb/herb,Brassicaceae,Erysimum marschallianum Andrz. ex M. Bieb.,ERMA18
+forb/herb,Brassicaceae,Hesperis matronalis L.,HEMA3
+forb/herb,Brassicaceae,Hirschfeldia incana (L.) Lagr.-Foss.,HIIN3
+forb/herb,Brassicaceae,Hirschfeldia sp.,HIRSC
+forb/herb,Brassicaceae,Lepidium bonariense L.,LEBO2
+forb/herb,Brassicaceae,Lepidium campestre (L.) W.T. Aiton,LECA5
+forb/herb,Brassicaceae,Lepidium perfoliatum L.,LEPE2
+forb/herb,Brassicaceae,Lobularia maritima (L.) Desv.,LOMA
+forb/herb,Brassicaceae,Malcolmia africana (L.) W.T. Aiton,MAAF
+forb/herb,Brassicaceae,Microthlaspi perfoliatum (L.) F.K. Mey.,MIPE8
+forb/herb,Brassicaceae,Nasturtium officinale W.T. Aiton,NAOF
+forb/herb,Brassicaceae,Nasturtium sp.,NASTU2
+forb/herb,Brassicaceae,Raphanus sativus L.,RASA2
+forb/herb,Brassicaceae,Sinapis alba L.,SIAL5
+forb/herb,Brassicaceae,Sisymbrium altissimum L.,SIAL2
+forb/herb,Brassicaceae,Sisymbrium officinale (L.) Scop.,SIOF
+forb/herb,Brassicaceae,Sisymbrium sp.,SISYM
+forb/herb,Brassicaceae,Sisymbrium spp.,SISYMSPP
+forb/herb,Brassicaceae,Thlaspi arvense L.,THAR5
+forb/herb,Brassicaceae,Thlaspi sp.,THLAS
+forb/herb,Callitrichaceae,Callitriche stagnalis Scop.,CAST
+forb/herb,Campanulaceae,Campanula glomerata L.,CAGL2
+forb/herb,Campanulaceae,Campanula rapunculoides L.,CARA
+forb/herb,Campanulaceae,Wahlenbergia marginata (Thunb.) A. DC.,WAMA
+forb/herb,Cannabaceae,Humulus japonicus Siebold & Zucc.,HUJA
+forb/herb,Caryophyllaceae,Arenaria serpyllifolia L.,ARSE2
+forb/herb,Caryophyllaceae,Cerastium fontanum Baumg.,CEFO2
+forb/herb,Caryophyllaceae,Cerastium fontanum Baumg. ssp. vulgare (Hartm.) Greuter & Burdet,CEFOV2
+forb/herb,Caryophyllaceae,Cerastium glomeratum Thuill.,CEGL2
+forb/herb,Caryophyllaceae,Dianthus armeria L.,DIAR
+forb/herb,Caryophyllaceae,Lychnis coronaria (L.) Desr.,LYCO
+forb/herb,Caryophyllaceae,Saponaria officinalis L.,SAOF4
+forb/herb,Caryophyllaceae,Scleranthus sp.,SCLER
+forb/herb,Caryophyllaceae,Silene gallica L.,SIGA
+forb/herb,Caryophyllaceae,Silene latifolia Poir.,SILA21
+forb/herb,Caryophyllaceae,Silene vulgaris (Moench) Garcke,SIVU
+forb/herb,Caryophyllaceae,Spergula arvensis L.,SPAR
+forb/herb,Caryophyllaceae,Spergularia rubra (L.) J. Presl & C. Presl,SPRU
+forb/herb,Caryophyllaceae,Stellaria graminea L.,STGR
+forb/herb,Caryophyllaceae,Stellaria media (L.) Vill.,STME2
+forb/herb,Caryophyllaceae,Stellaria media (L.) Vill. ssp. pallida (Dumort.) Asch. & Graebn.,STMEP
+forb/herb,Caryophyllaceae,Vaccaria hispanica (Mill.) Rauschert,VAHI2
+forb/herb,Chenopodiaceae,Bassia scoparia (L.) A.J. Scott,BASC5
+forb/herb,Chenopodiaceae,Dysphania anthelmintica (L.) Mosyakin & Clemants,DYAN2
+forb/herb,Chenopodiaceae,Halogeton glomeratus (M. Bieb.) C.A. Mey.,HAGL
+forb/herb,Chenopodiaceae,Salsola tragus L.,SATR12
+forb/herb,Clusiaceae,Hypericum perforatum L.,HYPE
+forb/herb,Commelinaceae,Commelina communis L.,COCO3
+forb/herb,Convolvulaceae,Convolvulus arvensis L.,COAR4
+forb/herb,Convolvulaceae,Convolvulus sp.,CONVO
+forb/herb,Convolvulaceae,Ipomoea cairica (L.) Sweet,IPCA
+forb/herb,Convolvulaceae,Ipomoea coccinea L.,IPCO3
+forb/herb,Convolvulaceae,Ipomoea hederacea Jacq.,IPHE
+forb/herb,Convolvulaceae,Ipomoea purpurea (L.) Roth,IPPU2
+forb/herb,Convolvulaceae,Ipomoea quamoclit L.,IPQU
+forb/herb,Convolvulaceae,Ipomoea triloba L.,IPTR2
+forb/herb,Convolvulaceae,Ipomoea wrightii A. Gray,IPWR
+forb/herb,Cucurbitaceae,Citrullus lanatus (Thunb.) Matsum. & Nakai var. lanatus,CILAL
+forb/herb,Dioscoreaceae,Dioscorea bulbifera L.,DIBU
+forb/herb,Dipsacaceae,Dipsacus laciniatus L.,DILA4
+forb/herb,Dryopteridaceae,Nephrolepis cordifolia (L.) C. Presl,NECO3
+forb/herb,Euphorbiaceae,Croton argenteus L.,CRAR5
+forb/herb,Euphorbiaceae,Euphorbia cyparissias L.,EUCY2
+forb/herb,Euphorbiaceae,Euphorbia davidii Subils,EUDA5
+forb/herb,Euphorbiaceae,Phyllanthus urinaria L.,PHUR
+forb/herb,Fabaceae,Arachis hypogaea L.,ARHY
+forb/herb,Fabaceae,Crotalaria juncea L.,CRJU
+forb/herb,Fabaceae,Crotalaria lanceolata E. Mey.,CRLA7
+forb/herb,Fabaceae,Desmodium incanum DC.,DEIN3
+forb/herb,Fabaceae,Desmodium incanum DC. var. incanum,DEINI3
+forb/herb,Fabaceae,Desmodium triflorum (L.) DC.,DETR4
+forb/herb,Fabaceae,Glycine max (L.) Merr.,GLMA4
+forb/herb,Fabaceae,Indigofera hirsuta L.,INHI
+forb/herb,Fabaceae,Kummerowia sp.,KUMME
+forb/herb,Fabaceae,Kummerowia stipulacea (Maxim.) Makino,KUST
+forb/herb,Fabaceae,Kummerowia striata (Thunb.) Schindl.,KUST2
+forb/herb,Fabaceae,Lathyrus aphaca L.,LAAP2
+forb/herb,Fabaceae,Lathyrus hirsutus L.,LAHI2
+forb/herb,Fabaceae,Lespedeza bicolor Turcz.,LEBI2
+forb/herb,Fabaceae,Lespedeza cuneata (Dum. Cours.) G. Don,LECU
+forb/herb,Fabaceae,Lotus corniculatus L.,LOCO6
+forb/herb,Fabaceae,Medicago lupulina L.,MELU
+forb/herb,Fabaceae,Medicago minima (L.) L.,MEMI
+forb/herb,Fabaceae,Melilotus indicus (L.) All.,MEIN2
+forb/herb,Fabaceae,Melilotus officinalis (L.) Lam.,MEOF
+forb/herb,Fabaceae,Melilotus sp.,MELIL
+forb/herb,Fabaceae,Onobrychis viciifolia Scop.,ONVI
+forb/herb,Fabaceae,Senna occidentalis (L.) Link,SEOC2
+forb/herb,Fabaceae,Trifolium arvense L.,TRAR4
+forb/herb,Fabaceae,Trifolium campestre Schreb.,TRCA5
+forb/herb,Fabaceae,Trifolium dubium Sibth.,TRDU2
+forb/herb,Fabaceae,Trifolium hirtum All.,TRHI4
+forb/herb,Fabaceae,Trifolium hybridum L.,TRHY
+forb/herb,Fabaceae,Trifolium pratense L.,TRPR2
+forb/herb,Fabaceae,Trifolium repens L.,TRRE3
+forb/herb,Fabaceae,Trifolium subterraneum L.,TRSU3
+forb/herb,Fabaceae,Trifolium vesiculosum Savi,TRVE
+forb/herb,Fabaceae,Vicia sativa L.,VISA
+forb/herb,Fabaceae,Vicia tetrasperma (L.) Schreb.,VITE
+forb/herb,Fabaceae,Vicia villosa Roth,VIVI
+forb/herb,Fabaceae,Vicia villosa Roth ssp. varia (Host) Corb.,VIVIV8
+forb/herb,Gentianaceae,Centaurium erythraea Rafn,CEER5
+forb/herb,Geraniaceae,Erodium botrys (Cav.) Bertol.,ERBO
+forb/herb,Geraniaceae,Erodium brachycarpum (Godr.) Thell.,ERBR14
+forb/herb,Geraniaceae,Erodium cicutarium (L.) L'H?©r. ex Aiton,ERCI6
+forb/herb,Geraniaceae,Erodium cicutarium (L.) L'H?©r. ex Aiton ssp. cicutarium,ERCIC
+forb/herb,Geraniaceae,Erodium moschatum (L.) L'H?©r. ex Aiton,ERMO7
+forb/herb,Geraniaceae,Geranium columbinum L.,GECO
+forb/herb,Geraniaceae,Geranium molle L.,GEMO
+forb/herb,Iridaceae,Belamcanda chinensis (L.) DC.,BECH
+forb/herb,Iridaceae,Freesia laxa (Thunb.) Goldblatt & J.C. Manning,FRLA5
+forb/herb,Lamiaceae,Calamintha sp.,CALAM4
+forb/herb,Lamiaceae,Chaiturus marrubiastrum (L.) Rchb.,CHMA18
+forb/herb,Lamiaceae,Galeopsis bifida Boenn.,GABI3
+forb/herb,Lamiaceae,Galeopsis sp.,GALEO
+forb/herb,Lamiaceae,Galeopsis tetrahit L.,GATE2
+forb/herb,Lamiaceae,Glechoma hederacea L.,GLHE2
+forb/herb,Lamiaceae,Lamium purpureum L.,LAPU2
+forb/herb,Lamiaceae,Lamium sp.,LAMIU
+forb/herb,Lamiaceae,Leonurus cardiaca L. ssp. cardiaca,LECAC7
+forb/herb,Lamiaceae,Marrubium vulgare L.,MAVU
+forb/herb,Lamiaceae,Mentha ?óvillosa Huds. (pro sp.),MEVI6
+forb/herb,Lamiaceae,Nepeta cataria L.,NECA2
+forb/herb,Lamiaceae,Perilla frutescens (L.) Britton,PEFR4
+forb/herb,Liliaceae,Allium sativum L.,ALSA2
+forb/herb,Liliaceae,Allium vineale L.,ALVI
+forb/herb,Liliaceae,Amaryllis sp.,AMARY
+forb/herb,Liliaceae,Asparagus officinalis L.,ASOF
+forb/herb,Liliaceae,Colchicum autumnale L.,COAU4
+forb/herb,Liliaceae,Convallaria majalis L.,COMA7
+forb/herb,Liliaceae,Liriope sp.,LIRIO2
+forb/herb,Liliaceae,Muscari botryoides (L.) Mill.,MUBO
+forb/herb,Linaceae,Linum perenne L.,LIPE2
+forb/herb,Lygodiaceae,Lygodium japonicum (Thunb.) Sw.,LYJA
+forb/herb,Lythraceae,Cuphea carthagenensis (Jacq.) J.F. Macbr.,CUCA4
+forb/herb,Lythraceae,Lythrum hyssopifolium L.,LYHY3
+forb/herb,Lythraceae,Lythrum salicaria L.,LYSA2
+forb/herb,Malvaceae,Abelmoschus sp.,ABELM
+forb/herb,Malvaceae,Abutilon theophrasti Medik.,ABTH
+forb/herb,Malvaceae,Malva neglecta Wallr.,MANE
+forb/herb,Malvaceae,Malva sp.,MALVA
+forb/herb,Marantaceae,Maranta sp.,MARAN
+forb/herb,Onagraceae,Ludwigia peruviana (L.) H. Hara,LUPE6
+forb/herb,Orchidaceae,Epipactis helleborine (L.) Crantz,EPHE
+forb/herb,Oxalidaceae,Oxalis debilis Kunth,OXDE3
+forb/herb,Oxalidaceae,Oxalis debilis Kunth var. corymbosa (DC.) Lourteig,OXDEC
+forb/herb,Oxalidaceae,Oxalis radicosa A. Rich.,OXRA
+forb/herb,Oxalidaceae,Oxalis rubra A. St.-Hil.,OXRU
+forb/herb,Papaveraceae,Chelidonium majus L.,CHMA2
+forb/herb,Pedaliaceae,Sesamum orientale L.,SEOR4
+forb/herb,Plantaginaceae,Plantago lanceolata L.,PLLA
+forb/herb,Plantaginaceae,Plantago major L.,PLMA2
+forb/herb,Polemoniaceae,Polemonium caeruleum L.,POCA2
+forb/herb,Polygonaceae,Polygonum aviculare L.,POAV
+forb/herb,Polygonaceae,Polygonum cespitosum Blume var. longisetum (Bruijn) A.N. Steward,POCEL
+forb/herb,Polygonaceae,Polygonum convolvulus L.,POCO10
+forb/herb,Polygonaceae,Polygonum convolvulus L. var. convolvulus,POCOC2
+forb/herb,Polygonaceae,Polygonum hydropiper L.,POHY
+forb/herb,Polygonaceae,Polygonum perfoliatum L.,POPE10
+forb/herb,Polygonaceae,Polygonum persicaria L.,POPE3
+forb/herb,Polygonaceae,Rumex acetosella L.,RUAC3
+forb/herb,Polygonaceae,Rumex crispus L.,RUCR
+forb/herb,Polygonaceae,Rumex crispus L. ssp. crispus,RUCRC
+forb/herb,Polygonaceae,Rumex frutescens Thouars,RUFR7
+forb/herb,Polygonaceae,Rumex obtusifolius L.,RUOB
+forb/herb,Portulacaceae,Portulaca oleracea L.,POOL
+forb/herb,Primulaceae,Anagallis arvensis L.,ANAR
+forb/herb,Primulaceae,Lysimachia nummularia L.,LYNU
+forb/herb,Primulaceae,Lysimachia punctata L.,LYPU2
+forb/herb,Primulaceae,Lysimachia vulgaris L.,LYVU
+forb/herb,Pteridaceae,Cheilanthes notholaenoides (Desv.) Maxon ex Weath.,CHNO2
+forb/herb,Ranunculaceae,Ceratocephala testiculata (Crantz) Roth,CETE5
+forb/herb,Ranunculaceae,Consolida ajacis (L.) Schur,COAJ
+forb/herb,Ranunculaceae,Ranunculus arvensis L.,RAAR3
+forb/herb,Ranunculaceae,Ranunculus bulbosus L.,RABU
+forb/herb,Ranunculaceae,Ranunculus muricatus L.,RAMU2
+forb/herb,Rosaceae,Duchesnea indica (Andrews) Focke,DUIN
+forb/herb,Rosaceae,Duchesnea sp.,DUCHE
+forb/herb,Rosaceae,Potentilla argentea L.,POAR8
+forb/herb,Rosaceae,Potentilla recta L.,PORE5
+forb/herb,Rosaceae,Sanguisorba minor Scop.,SAMI3
+forb/herb,Rubiaceae,Cruciata pedemontana (Bellardi) Ehrend.,CRPE10
+forb/herb,Rubiaceae,Galium mollugo L.,GAMO
+forb/herb,Rubiaceae,Galium murale (L.) All.,GAMU4
+forb/herb,Rubiaceae,Galium parisiense L.,GAPA5
+forb/herb,Rubiaceae,Mitracarpus hirtus (L.) DC.,MIHI2
+forb/herb,Salviniaceae,Salvinia minima Baker,SAMI7
+forb/herb,Sapindaceae,Cardiospermum halicacabum L.,CAHA13
+forb/herb,Scrophulariaceae,Digitalis lanata Ehrh.,DILA3
+forb/herb,Scrophulariaceae,Digitalis purpurea L.,DIPU
+forb/herb,Scrophulariaceae,Digitalis purpurea L. ssp. purpurea,DIPUP2
+forb/herb,Scrophulariaceae,Digitalis sp.,DIGIT
+forb/herb,Scrophulariaceae,Linaria dalmatica (L.) Mill.,LIDA
+forb/herb,Scrophulariaceae,Linaria dalmatica (L.) Mill. ssp. dalmatica,LIDAD
+forb/herb,Scrophulariaceae,Linaria vulgaris Mill.,LIVU2
+forb/herb,Scrophulariaceae,Striga asiatica (L.) Kuntze,STAS2
+forb/herb,Scrophulariaceae,Verbascum blattaria L.,VEBL
+forb/herb,Scrophulariaceae,Verbascum thapsus L.,VETH
+forb/herb,Scrophulariaceae,Veronica agrestis L.,VEAG
+forb/herb,Scrophulariaceae,Veronica arvensis L.,VEAR
+forb/herb,Scrophulariaceae,Veronica biloba L.,VEBI2
+forb/herb,Scrophulariaceae,Veronica chamaedrys L.,VECH
+forb/herb,Scrophulariaceae,Veronica hederifolia L.,VEHE2
+forb/herb,Scrophulariaceae,Veronica officinalis L.,VEOF2
+forb/herb,Scrophulariaceae,Veronica officinalis L. var. officinalis,VEOFO
+forb/herb,Scrophulariaceae,Veronica persica Poir.,VEPE3
+forb/herb,Scrophulariaceae,Veronica polita Fr.,VEPO
+forb/herb,Solanaceae,Datura stramonium L.,DAST
+forb/herb,Solanaceae,Solanum dulcamara L.,SODU
+forb/herb,Solanaceae,Solanum nigrum L.,SONI
+forb/herb,Thelypteridaceae,Macrothelypteris torresiana (Gaudich.) Ching,MATO3
+forb/herb,Verbenaceae,Glandularia tenera (Spreng.) Cabrera,GLTE3
+forb/herb,Verbenaceae,Verbena brasiliensis Vell.,VEBR2
+forb/herb,Verbenaceae,Verbena incompta P.W. Michael,VEIN9
+forb/herb,Verbenaceae,Verbena officinalis L.,VEOF
+forb/herb,Violaceae,Viola arvensis Murray,VIAR
+forb/herb,Violaceae,Viola tricolor L.,VITR
+graminoid,Cyperaceae,Cyperus difformis L.,CYDI4
+graminoid,Cyperaceae,Cyperus esculentus L. var. leptostachyus Boeckeler,CYESL
+graminoid,Cyperaceae,Cyperus pilosus Vahl,CYPI
+graminoid,Poaceae,Aegilops cylindrica Host,AECY
+graminoid,Poaceae,Agropyron cristatum (L.) Gaertn.,AGCR
+graminoid,Poaceae,Agropyron sp.,AGROP2
+graminoid,Poaceae,Agropyron spp.,AGROP2SPP
+graminoid,Poaceae,Agrostis capillaris L.,AGCA5
+graminoid,Poaceae,Agrostis gigantea Roth,AGGI2
+graminoid,Poaceae,Aira caryophyllea L.,AICA
+graminoid,Poaceae,Aira caryophyllea L. var. caryophyllea,AICAC2
+graminoid,Poaceae,Aira sp.,AIRA
+graminoid,Poaceae,Alopecurus pratensis L.,ALPR3
+graminoid,Poaceae,Anthoxanthum odoratum L.,ANOD
+graminoid,Poaceae,Anthoxanthum sp.,ANTHO
+graminoid,Poaceae,Arrhenatherum elatius (L.) P. Beauv. ex J. Presl & C. Presl,AREL3
+graminoid,Poaceae,Arthraxon hispidus (Thunb.) Makino,ARHI3
+graminoid,Poaceae,Avena barbata Pott ex Link,AVBA
+graminoid,Poaceae,Avena sativa L.,AVSA
+graminoid,Poaceae,Avena sp.,AVENA
+graminoid,Poaceae,Bothriochloa bladhii (Retz.) S.T. Blake,BOBL
+graminoid,Poaceae,Bothriochloa ischaemum (L.) Keng,BOIS
+graminoid,Poaceae,Bothriochloa ischaemum (L.) Keng var. ischaemum,BOISI
+graminoid,Poaceae,Bothriochloa ischaemum (L.) Keng var. songarica (Rupr. ex Fisch. & C.A. Mey.) Celarier & Harlan,BOISS
+graminoid,Poaceae,Briza minor L.,BRMI2
+graminoid,Poaceae,Briza sp.,BRIZA
+graminoid,Poaceae,Bromus arenarius Labill.,BRAR3
+graminoid,Poaceae,Bromus arvensis L.,BRAR5
+graminoid,Poaceae,Bromus briziformis Fisch. & C.A. Mey.,BRBR5
+graminoid,Poaceae,Bromus diandrus Roth,BRDI3
+graminoid,Poaceae,Bromus erectus Huds.,BRER3
+graminoid,Poaceae,Bromus hordeaceus L.,BRHO2
+graminoid,Poaceae,Bromus rubens L.,BRRU2
+graminoid,Poaceae,Bromus sterilis L.,BRST2
+graminoid,Poaceae,Bromus tectorum L.,BRTE
+graminoid,Poaceae,Cynodon dactylon (L.) Pers.,CYDA
+graminoid,Poaceae,Cynodon sp.,CYNOD
+graminoid,Poaceae,Cynosurus echinatus L.,CYEC
+graminoid,Poaceae,Dactylis glomerata L.,DAGL
+graminoid,Poaceae,Dactylis glomerata L. ssp. glomerata,DAGLG
+graminoid,Poaceae,Dactyloctenium aegyptium (L.) Willd.,DAAE
+graminoid,Poaceae,Dactyloctenium sp.,DACTY2
+graminoid,Poaceae,Dichanthium sp.,DICHA3
+graminoid,Poaceae,Dichanthium spp.,DICHA3SPP
+graminoid,Poaceae,Digitaria eriantha Steud.,DIER
+graminoid,Poaceae,Digitaria ischaemum (Schreb.) Schreb. ex Muhl.,DIIS
+graminoid,Poaceae,Digitaria sanguinalis (L.) Scop.,DISA
+graminoid,Poaceae,Digitaria violascens Link,DIVI2
+graminoid,Poaceae,Echinochloa crus-galli (L.) P. Beauv.,ECCR
+graminoid,Poaceae,Eleusine indica (L.) Gaertn.,ELIN3
+graminoid,Poaceae,Elymus repens (L.) Gould,ELRE4
+graminoid,Poaceae,Eragrostis cilianensis (All.) Vign. ex Janchen,ERCI
+graminoid,Poaceae,Eragrostis pilosa (L.) P. Beauv.,ERPI2
+graminoid,Poaceae,Eremochloa ophiuroides (Munro) Hack.,EROP
+graminoid,Poaceae,Festuca brevipila Tracey,7-Feb
+graminoid,Poaceae,Gastridium phleoides (Nees & Meyen) C.E. Hubbard,GAPH2
+graminoid,Poaceae,Glyceria declinata Br?©biss.,GLDE
+graminoid,Poaceae,Holcus lanatus L.,HOLA
+graminoid,Poaceae,Hordeum marinum Huds.,HOMA2
+graminoid,Poaceae,Hordeum marinum Huds. ssp. gussoneanum (Parl.) Thell.,HOMAG
+graminoid,Poaceae,Hordeum murinum L.,HOMU
+graminoid,Poaceae,Hordeum murinum L. ssp. leporinum (Link) Arcang.,HOMUL
+graminoid,Poaceae,Lamarckia aurea (L.) Moench,LAAU
+graminoid,Poaceae,Lolium perenne L.,LOPE
+graminoid,Poaceae,Lolium perenne L. ssp. multiflorum (Lam.) Husnot,LOPEM2
+graminoid,Poaceae,Melinis repens (Willd.) Zizka,MERE9
+graminoid,Poaceae,Microstegium vimineum (Trin.) A. Camus,MIVI
+graminoid,Poaceae,Miscanthus sinensis Andersson,MISI
+graminoid,Poaceae,Panicum coloratum L.,PACO2
+graminoid,Poaceae,Parapholis incurva (L.) C.E. Hubbard,PAIN
+graminoid,Poaceae,Paspalum urvillei Steud.,PAUR2
+graminoid,Poaceae,Pennisetum ciliare (L.) Link,PECI
+graminoid,Poaceae,Pennisetum glaucum (L.) R. Br.,PEGL2
+graminoid,Poaceae,Pennisetum purpureum Schumach.,PEPU2
+graminoid,Poaceae,Pennisetum villosum R. Br. ex Fresen.,PEVI2
+graminoid,Poaceae,Phleum pratense L.,PHPR3
+graminoid,Poaceae,Phragmites australis (Cav.) Trin. ex Steud. ssp. australis,PHAUA7
+graminoid,Poaceae,Poa annua L.,POAN
+graminoid,Poaceae,Poa bulbosa L.,POBU
+graminoid,Poaceae,Poa compressa L.,POCO
+graminoid,Poaceae,Poa pratensis L. ssp. pratensis,POPRP2
+graminoid,Poaceae,Poa trivialis L.,POTR2
+graminoid,Poaceae,Polypogon monspeliensis (L.) Desf.,POMO5
+graminoid,Poaceae,Rottboellia cochinchinensis (Lour.) W.D. Clayton,ROCO6
+graminoid,Poaceae,Rottboellia sp.,ROTTB
+graminoid,Poaceae,"Schedonorus arundinaceus (Schreb.) Dumort., nom. cons.",SCAR7
+graminoid,Poaceae,Setaria faberi Herrm.,SEFA
+graminoid,Poaceae,Setaria italica (L.) P. Beauv.,SEIT
+graminoid,Poaceae,Setaria pumila (Poir.) Roem. & Schult.,SEPU8
+graminoid,Poaceae,Setaria pumila (Poir.) Roem. & Schult. ssp. pumila,SEPUP2
+graminoid,Poaceae,Setaria viridis (L.) P. Beauv.,SEVI4
+graminoid,Poaceae,Setaria viridis (L.) P. Beauv. var. viridis,SEVIV
+graminoid,Poaceae,Sorghum bicolor (L.) Moench,SOBI2
+graminoid,Poaceae,Sorghum bicolor (L.) Moench ssp. bicolor,SOBIB
+graminoid,Poaceae,Sorghum halepense (L.) Pers.,SOHA
+graminoid,Poaceae,Sorghum sp.,SORGH2
+graminoid,Poaceae,Thinopyrum intermedium (Host) Barkworth & D.R. Dewey,THIN6
+graminoid,Poaceae,Triticum aestivum L.,TRAE
+graminoid,Poaceae,Triticum sp.,TRITI
+graminoid,Poaceae,Urochloa ramosa (L.) Nguyen,URRA
+graminoid,Poaceae,Vulpia myuros (L.) C.C. Gmel.,VUMY
+graminoid,Poaceae,Zea mays L.,ZEMA
+shrub,Berberidaceae,Berberis thunbergii DC.,BETH
+shrub,Berberidaceae,Mahonia bealei (Fortune) Carri?®re,MABE2
+shrub,Capparaceae,Capparis incana Kunth,CAIN21
+shrub,Caprifoliaceae,Lonicera ?óbella Zabel,LOBE
+shrub,Caprifoliaceae,Lonicera maackii (Rupr.) Herder,LOMA6
+shrub,Caprifoliaceae,Lonicera morrowii A. Gray,LOMO2
+shrub,Caprifoliaceae,Lonicera tatarica L.,LOTA
+shrub,Celastraceae,Euonymus alatus (Thunb.) Siebold,EUAL13
+shrub,Celastraceae,Euonymus alatus (Thunb.) Siebold var. alatus,EUALA2
+shrub,Celastraceae,Euonymus fortunei (Turcz.) Hand.-Maz.,EUFO5
+shrub,Celastraceae,Euonymus fortunei (Turcz.) Hand.-Maz. var. fortunei,EUFOF
+shrub,Elaeagnaceae,Elaeagnus pungens Thunb.,ELPU2
+shrub,Elaeagnaceae,Elaeagnus umbellata Thunb.,ELUM
+shrub,Ericaceae,Calluna vulgaris (L.) Hull,CAVU
+shrub,Fabaceae,Cytisus scoparius (L.) Link,CYSC4
+shrub,Oleaceae,Forsythia ovata Nakai,FOOV80
+shrub,Oleaceae,Ligustrum obtusifolium Siebold & Zucc.,LIOB
+shrub,Oleaceae,Ligustrum vulgare L.,LIVU
+shrub,Oleaceae,Syringa vulgaris L.,SYVU
+shrub,Rosaceae,Rhodotypos scandens (Thunb.) Makino,RHSC3
+shrub,Rosaceae,Rubus parvifolius L.,RUPA2
+shrub,Rosaceae,Spiraea prunifolia Siebold & Zucc.,SPPR
+shrub,Verbenaceae,Lantana camara L.,LACA2
+shrub,Verbenaceae,Vitex rotundifolia L. f.,VIRO80
+shrub,Vitaceae,Vitis vinifera L.,VIVI5
+shrub/tree,Aceraceae,Acer palmatum Thunb.,ACPA2
+shrub/tree,Anacardiaceae,Schinus terebinthifolius Raddi,SCTE
+shrub/tree,Aquifoliaceae,Ilex aquifolium L.,ILAQ80
+shrub/tree,Arecaceae,Butia sp.,BUTIA
+shrub/tree,Caprifoliaceae,Sambucus racemosa/nigra,SARA2/SANI4
+shrub/tree,Caprifoliaceae,Viburnum lantana L.,VILA
+shrub/tree,Elaeocarpaceae,Muntingia calabura L.,MUCA4
+shrub/tree,Fabaceae,Albizia julibrissin Durazz.,ALJU
+shrub/tree,Meliaceae,Melia azedarach L.,MEAZ
+shrub/tree,Moraceae,Morus alba L.,MOAL
+shrub/tree,Myrtaceae,Rhodomyrtus tomentosa (Aiton) Hassk.,RHTO10
+shrub/tree,Oleaceae,Ligustrum japonicum Thunb.,LIJA
+shrub/tree,Oleaceae,Ligustrum lucidum W.T. Aiton,LILU2
+shrub/tree,Oleaceae,Ligustrum sinense Lour.,LISI
+shrub/tree,Oleaceae,Ligustrum sp.,LIGUS2
+shrub/tree,Rhamnaceae,Frangula alnus Mill.,FRAL4
+shrub/tree,Rhamnaceae,Rhamnus cathartica L.,RHCA3
+shrub/tree,Rhamnaceae,Rhamnus davurica Pall.,RHDA
+shrub/tree,Rosaceae,Cydonia oblonga Mill.,CYOB2
+shrub/tree,Rosaceae,Sorbus aucuparia L.,SOAU
+shrub/tree,Rutaceae,Poncirus trifoliata (L.) Raf.,POTR4
+shrub/tree,Rutaceae,Tetradium daniellii (Benn.) T.G. Hartley,TEDA
+shrub/tree,Ulmaceae,Ulmus pumila L.,ULPU
+subshrub,Chenopodiaceae,Salsola sp.,SALSO
+subshrub,Fabaceae,Lespedeza thunbergii (DC.) Nakai,LETH4
+subshrub,Rosaceae,Rosa micrantha Borrer ex Sm.,ROMI
+subshrub,Rosaceae,Rosa multiflora Thunb.,ROMU
+subshrub,Rosaceae,Rubus armeniacus Focke,RUAR9
+subshrub,Rosaceae,Rubus idaeus L. ssp. idaeus,RUIDI
+subshrub,Rosaceae,Rubus laciniatus Willd.,RULA
+subshrub,Rosaceae,Rubus phoenicolasius Maxim.,RUPH
+subshrub,Solanaceae,Solanum capsicoides All.,SOCA10
+tree,Aceraceae,Acer platanoides L.,ACPL
+tree,Arecaceae,Butia capitata (Mart.) Becc.,BUCA15
+tree,Ebenaceae,Diospyros digyna Jacq.,DIDI15
+tree,Euphorbiaceae,Triadica sebifera (L.) Small,TRSE6
+tree,Euphorbiaceae,Vernicia fordii (Hemsl.) Airy-Shaw,VEFO
+tree,Fagaceae,Quercus acutissima Carruthers,QUAC80
+tree,Moraceae,Broussonetia papyrifera (L.) L'H?©r. ex Vent.,BRPA4
+tree,Musaceae,Musaceae sp.,MUSACE
+tree,Pinaceae,Picea abies (L.) Karst.,PIAB
+tree,Rosaceae,Malus pumila Mill.,MAPU
+tree,Rosaceae,Prunus avium (L.) L.,PRAV
+tree,Rosaceae,Pyrus calleryana Decne.,PYCA80
+tree,Rosaceae,Pyrus sp.,PYRUS
+tree,Scrophulariaceae,Paulownia tomentosa (Thunb.) Siebold & Zucc. ex Steud.,PATO2
+tree,Simaroubaceae,Ailanthus altissima (Mill.) Swingle,AIAL
+tree,Tiliaceae,Tilia cordata Mill.,TICO2
+tree,Ulmaceae,Ulmus parvifolia Jacq.,ULPA
+vine,Araliaceae,Hedera helix L.,HEHE
+vine,Bignoniaceae,Macfadyena unguis-cati (L.) A.H. Gentry,MAUN3
+vine,Caprifoliaceae,Lonicera japonica Thunb.,LOJA
+vine,Celastraceae,Celastrus orbiculatus Thunb.,CEOR7
+vine,Fabaceae,Pueraria montana (Lour.) Merr.,PUMO
+vine,Fabaceae,Wisteria sinensis (Sims) DC.,WISI
+vine,Ranunculaceae,Clematis terniflora DC.,CLTE4
