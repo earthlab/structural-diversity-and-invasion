@@ -11,9 +11,11 @@ outfile <- paste0(root, "data/input_cover_data.Rda")
 
 data <- read.csv(paste0(root, "data/NEON_sites_dates_for_cover.csv"))
 
-if(!file.exits(outfile)){
+if(!file.exists(outfile)){
   # takes a while
-  input_data <- lapply(data$siteID,neonPlantEcology::download_plant_div)
+  input_data <- lapply(data$siteID, function(site) {
+    neonPlantEcology::npe_download(sites = site)
+  })
 }else{
   load(outfile)
 }
