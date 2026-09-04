@@ -60,7 +60,13 @@ manual_habits <- tribble(
   "ASTER", "Forb/herb",
   # LISI is listed as a tree but USDA PLANTS online has it as a shrub/tree
   # and it functions more like a tall shrub in DELA
-  "LISI", "Shrub"
+  "LISI", "Shrub",
+  # LOJA has multiple synonym rows but functions like a vine in DELA
+  "LOJA", "Vine",
+  # IPCO3 vining ipomoea
+  "IPCO3", "Vine",
+  # MEAZ is cuspy/shrub tree but can be a midstory tree in DELA
+  "MEAZ", "Tree"
 )
 
 usda <- usda_raw |>
@@ -70,6 +76,9 @@ usda <- usda_raw |>
   filter(!(taxonID == "LYJA" & growth_habit == "Forb/herb")) |>
   # Remove any taxon codes that will be overridden by manual_habits
   filter(!taxonID %in% manual_habits$taxonID) |>
+  # Deduplicate remaining synonym rows (same taxonID, same growth habit in
+  # multiple CSV records) to prevent inflated cover counts after left_join.
+  distinct(taxonID, .keep_all = TRUE) |>
   bind_rows(manual_habits)
 
 
